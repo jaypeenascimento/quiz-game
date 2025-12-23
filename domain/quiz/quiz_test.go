@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/jaypasnascimento/quiz-game"
+	"github.com/jaypasnascimento/quiz-game/domain/quiz"
 )
 
 func TestQuizWriteStatement(t *testing.T) {
